@@ -4,5 +4,6 @@ A simulation for visulaizing the data of an ultrsonic sensor using RVIZ.
  - The created publisher node "simulate_node" mimics the ultrsonic sensor and publishes ultrasonic ranges data as an outout.
 * Due to something wrong, RVIZ could not visualize the Range outputs although the setup is correct. Hence, I added markers to visulaize them instead of the Range. 
   A marker (green sphere) is located at the distance created by the ultrasonic simulator node (simulate_node).
+* I figured the error and solved it..
   
-A link to the demo video: https://youtu.be/hWnsdUsbEM8 
+A link to the demo video: https://youtu.be/iwg_sJnBrlI  
