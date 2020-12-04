@@ -6,4 +6,3 @@ A simulation for visulaizing the data of an ultrsonic sensor using RVIZ.
   A marker (green sphere) is located at the distance created by the ultrasonic simulator node (simulate_node).
   
 A link to the demo video: https://youtu.be/hWnsdUsbEM8 
-d\
